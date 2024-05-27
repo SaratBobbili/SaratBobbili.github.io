@@ -9,19 +9,19 @@ disqus_shortname: sarat
 # Owner/author information
 owner:
   name:           Sarat Chandra Bobbili
-  avatar:         jordi.png
+  avatar:         Sarat.jpeg
   bio:            I'm from Kakinada, Andhra Pradesh. Currently in College Station, Texas. Current Passions include Photography, Archery, and Mountains.
   email:          saratbobbili@tamu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: jponttuset
   linkedin: sarat-chandra-b-1ba5509a
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
+  google_scholar: t_pK3k8AAAAJ
+  #google_plus: 113718226018314522413
   github: SaratBobbili
 # Analytics and webmaster tools stuff goes here
-google_verify:
+#google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
