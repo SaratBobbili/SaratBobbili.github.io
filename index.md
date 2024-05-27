@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Autumn Moon's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: Pier.jpg
+  feature: Pier2.jpg
 ---
 
 
